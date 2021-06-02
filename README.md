@@ -9,13 +9,13 @@
 
 # Authentication Sanctum
 ## Login
-![alt text](https://github.com/[FahmiNB]/AuthenticationSanctum/blob/[master]/imglogin.jpg?raw=true)
+![imglogin](imglogin.jpg)
 
 ## Logout
-![alt text](https://github.com/[FahmiNB]/AuthenticationSanctum/blob/[master]/imglogout.jpg?raw=true)
+![imglogout](imglogout.jpg)
 
 ## LogoutAll
-![alt text](https://github.com/[FahmiNB]/AuthenticationSanctum/blob/[master]/imglogoutall.jpg?raw=true)
+![imglogoutall](imglogoutall.jpg)
 
-##Hosting
+## Hosting
 https://authenticationsanctum32.000webhostapp.com/
