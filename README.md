@@ -9,6 +9,7 @@
 
 # Authentication Sanctum
 ## Login
+<<<<<<< HEAD
 <img src="imglogin" width="350" >
 
 ## Logout
@@ -17,3 +18,14 @@
 ## LogoutAll
 <img src="logoutAll" width="350" >
 
+=======
+<img src="imglogin.jpg" width="350" >
+
+## Logout
+<img src="logout.jpg" width="350" >
+
+## LogoutAll
+<img src="logoutAll.jpg" width="350" >
+
+##Hosting
+>>>>>>> 94f666952f144c24033185b5538ec2cd691431f2
