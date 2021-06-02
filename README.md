@@ -9,13 +9,13 @@
 
 # Authentication Sanctum
 ## Login
-<img src="imglogin" width="350" >
+<img src="master/imglogin" width="350" >
 
 ## Logout
-<img src="logout" width="350" >
+<img src="master/logout" width="350" >
 
 ## LogoutAll
-<img src="logoutAll" width="350" >
+<img src="master/logoutAll" width="350" >
 
 ##Hosting
 https://authenticationsanctum32.000webhostapp.com/
